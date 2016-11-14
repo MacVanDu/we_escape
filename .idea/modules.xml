@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CuaDu.iml" filepath="$PROJECT_DIR$/CuaDu.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/we_escape.iml" filepath="$PROJECT_DIR$/we_escape.iml" />
     </modules>
   </component>
 </project>
